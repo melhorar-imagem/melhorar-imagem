@@ -6,7 +6,7 @@
 
 Melhorar Imagem is an AI-powered online image enhancement solution that transforms ordinary photos into professional quality images. Our advanced artificial intelligence algorithms automatically analyze and optimize image clarity, color balance, and fine details to deliver stunning results.
 
-Website: [Melhorar Imagem Official Site](https://melhorarimagem.com)
+Website: [Melhorar Imagem](https://melhorarimagem.com/)
 
 ## Key Features of Melhorar Imagem
 
@@ -64,7 +64,7 @@ The Melhorar Imagem website supports multiple languages:
 
 ## Contact Us
 
-For any questions or suggestions about Melhorar Imagem, please visit our [official website](https://melhorarimagem.com) for more information.
+For any questions or suggestions about Melhorar Imagem, please visit our [Melhorar Imagem Official Website](https://melhorarimagem.com/) for more information.
 
 ## Copyright
 
