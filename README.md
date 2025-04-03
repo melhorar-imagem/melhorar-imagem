@@ -1,6 +1,6 @@
 # Melhorar Imagem - AI-Powered Photo Enhancement Tool
 
-![Melhorar Imagem Tool](https://melhorarimagem.com/images/logo.png)
+![Melhorar Imagem Tool](https://melhorarimagem.com/favicon.svg)
 
 ## Project Overview
 
